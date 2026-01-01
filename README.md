@@ -55,13 +55,13 @@
     <span style="font-size: 1.3em;">✨</span> Certified Ethical Hacker (CEHv12)
   </h3>
   <p style="opacity: 0.9;"><strong>EC-Council • Issued: 12 December 2025</strong></p>
- 
+ <center>
      🔍 Advanced OSINT Techniques
      ⚔️ Vulnerability Assessment & Penetration Testing
      🔐 MSFVenom Payload Crafting
      💣EternalBlue/BlueKeep Exploitation
      🔨 Hashcat & Hydra Mastery
-    
+ </center>
 </div>
 
 <!-- Novel card with purchase CTA -->
