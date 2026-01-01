@@ -20,7 +20,7 @@ Mastered OSINT, vulnerability assessment, MSFVenom payloads, EternalBlue/BlueKee
 
 **Self-Published Novel** • Gumroad • Dec 2025  
 Dystopian action-adventure (24,000+ words, 14 chapters)  
-[![Read/Buy](https://img.shields.io/badge/📚-Read%20on%20Gumroad-blue)](https://nafeel892k.gumroad.com)
+[![Read/Buy](https://img.shields.io/badge/📚-Read%20on%20Gumroad-blue)](https://nafeel892k.gumroad.com/l/vujddq)
 
 ---
 
