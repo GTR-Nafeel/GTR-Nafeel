@@ -1,167 +1,448 @@
 # 👋 Hi, I'm Nafeel Masood (Muhammad Nafeel Qazi)
 
+<!-- Animated header with cyber theme -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&width=800&lines=🔒+CEH-Certified+Junior+Cybersecurity+Analyst;🌐+Full-Stack+Web+Developer;📖+Self-Published+Author;🚀+Passionate+About+Ethical+Hacking+%26+OSINT" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=28&duration=4000&pause=1000&color=00FF00&center=true&vCenter=true&width=850&lines=🔒+CEHv12+Certified+Security+Analyst;🌐+Full-Stack+Web+Developer;📖+Self-Published+Dystopian+Author;⚡+Passionate+About+Ethical+Hacking+%26+OSINT;🚀+Building+Secure+Digital+Futures" alt="Typing Animation" />
 </p>
 
+<!-- Animated social badges with hover effects -->
+<div align="center" style="display: grid; grid-template-columns: repeat(auto-fit, minmax(140px, 1fr)); gap: 15px; max-width: 800px; margin: 30px auto;">
+
+[![GitHub](https://img.shields.io/badge/GitHub-GTR--Nafeel-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=181717)](https://github.com/GTR-Nafeel)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Muhammad_Nafeel-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5)](https://www.linkedin.com/in/muhammad-nafeel-314670251/)
+[![Instagram](https://img.shields.io/badge/Instagram-@heartripper__senpai.2k-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=E4405F)](https://www.instagram.com/heartripper_senpai.2k/)
+[![Gumroad](https://img.shields.io/badge/Gumroad-Read_My_Novel-36A9AE?style=for-the-badge&logo=gumroad&logoColor=white&labelColor=36A9AE)](https://nafeel892k.gumroad.com)
+[![Email](https://img.shields.io/badge/Email-nafeelmasood@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=EA4335)](mailto:nafeelmasood@gmail.com)
+
+</div>
+
+<!-- Animated stats badges -->
+<div align="center" style="margin: 25px 0;">
+  <div style="display: inline-flex; gap: 15px; flex-wrap: wrap; justify-content: center;">
+    <img src="https://komarev.com/ghpvc/?username=GTR-Nafeel&label=Profile+Views&color=00FF00&style=flat-square&animation=spin" alt="Profile Views" />
+    <img src="https://img.shields.io/badge/Status-Active%20Learner-brightgreen?style=flat-square&logo=statuspage" alt="Status" />
+    <img src="https://img.shields.io/badge/CEH-Certified%20Ethical%20Hacker-00FF00?style=flat-square&logo=hashicorp" alt="CEH Certified" />
+    <img src="https://img.shields.io/badge/Open%20to-Collaborations-0077B5?style=flat-square&logo=handshake" alt="Open to Collaborations" />
+  </div>
+</div>
+
+<!-- Glowing separator -->
 <div align="center">
-  
-[![GitHub](https://img.shields.io/badge/🔗-GitHub-black?style=for-the-badge&logo=github&logoColor=white)](https://github.com/GTR-Nafeel)
-[![LinkedIn](https://img.shields.io/badge/💼-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nafeel-masood)
-[![Instagram](https://img.shields.io/badge/📸-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/nafeel.ig)
-[![Gumroad](https://img.shields.io/badge/📖-Gumroad-blue?style=for-the-badge&logo=gumroad&logoColor=white)](https://nafeel892k.gumroad.com)
-[![Email](https://img.shields.io/badge/📫-Email-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nafeelmasood@gmail.com)
-
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" alt="separator" width="100%" height="30px">
 </div>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=GTR-Nafeel&label=Profile+Views&color=00FF00&style=flat" alt="Profile Views" />
-  <img src="https://img.shields.io/badge/Status-Open%20to%20Collaborations-brightgreen?style=flat" alt="Status" />
-</p>
+## 🏆 Certifications & Achievements
 
----
-
-## 🏆 Certifications
-
-<div align="center" style="margin: 20px 0;">
+<!-- Interactive certificate gallery -->
+<div align="center" style="position: relative; margin: 30px 0;">
   
-![CEH Certificate](https://raw.githubusercontent.com/GTR-Nafeel/GTR-Nafeel/main/CEH-Certificate.jpg)
-  
-<div style="margin: 15px 0;">
-  <h3 style="color: #00FF00; animation: pulse 2s infinite;">✨ Certified Ethical Hacker (CEH) ✨</h3>
-  <p><strong>EC-Council • Issued: 12 Dec 2025</strong></p>
-  <p>Mastered OSINT, vulnerability assessment, MSFVenom payloads, EternalBlue/BlueKeep exploits, and tools like Hashcat & Hydra.</p>
+<div style="position: relative; display: inline-block; margin: 20px; animation: glow 2s infinite alternate;">
+  <img src="https://raw.githubusercontent.com/GTR-Nafeel/GTR-Nafeel/main/CEH-Certificate.jpg" 
+       alt="CEH Certificate" 
+       style="max-width: 600px; width: 100%; border-radius: 15px; border: 3px solid #00FF00; box-shadow: 0 0 30px rgba(0, 255, 0, 0.5); transition: transform 0.5s ease;"
+       onmouseover="this.style.transform='scale(1.02)'; this.style.boxShadow='0 0 50px rgba(0, 255, 0, 0.8)'"
+       onmouseout="this.style.transform='scale(1)'; this.style.boxShadow='0 0 30px rgba(0, 255, 0, 0.5)'">
+  <div style="position: absolute; bottom: 20px; left: 0; right: 0; text-align: center;">
+    <div style="background: rgba(0, 0, 0, 0.8); padding: 10px; border-radius: 10px; display: inline-block;">
+      <span style="color: #00FF00; font-size: 1.1em;">🔍 Hover to zoom | Click for details</span>
+    </div>
+  </div>
 </div>
 
-<div style="background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); padding: 20px; border-radius: 10px; margin: 20px 0; animation: fadeIn 1.5s;">
-  <h3 style="color: white;">📚 Self-Published Novel • Gumroad • Dec 2025</h3>
-  <p style="color: white;">Dystopian action-adventure (24,000+ words, 14 chapters)</p>
-  <a href="https://nafeel892k.gumroad.com" style="text-decoration: none;">
-    <button style="background: #00FF00; color: black; border: none; padding: 10px 20px; border-radius: 5px; font-weight: bold; cursor: pointer; transition: transform 0.3s;">
-      📖 Read/Buy Now
+<!-- Certification details with icons -->
+<div style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: center; margin: 30px 0;">
+  
+<div style="flex: 1; min-width: 300px; background: linear-gradient(135deg, #0f2027, #203a43, #2c5364); padding: 25px; border-radius: 15px; border-left: 5px solid #00FF00; animation: slideInLeft 1s ease;">
+  <h3 style="color: #00FF00; margin-top: 0;">
+    <span style="font-size: 1.3em;">✨</span> Certified Ethical Hacker (CEHv12)
+  </h3>
+  <p style="opacity: 0.9;"><strong>EC-Council • Issued: 12 December 2025</strong></p>
+  <ul style="list-style-type: none; padding-left: 0;">
+    <li style="margin: 8px 0; padding-left: 25px; position: relative;">
+      <span style="position: absolute; left: 0; color: #00FF00;">🔍</span> Advanced OSINT Techniques
+    </li>
+    <li style="margin: 8px 0; padding-left: 25px; position: relative;">
+      <span style="position: absolute; left: 0; color: #00FF00;">⚔️</span> Vulnerability Assessment & Penetration Testing
+    </li>
+    <li style="margin: 8px 0; padding-left: 25px; position: relative;">
+      <span style="position: absolute; left: 0; color: #00FF00;">🔐</span> MSFVenom Payload Crafting
+    </li>
+    <li style="margin: 8px 0; padding-left: 25px; position: relative;">
+      <span style="position: absolute; left: 0; color: #00FF00;">💣</span> EternalBlue/BlueKeep Exploitation
+    </li>
+    <li style="margin: 8px 0; padding-left: 25px; position: relative;">
+      <span style="position: absolute; left: 0; color: #00FF00;">🔨</span> Hashcat & Hydra Mastery
+    </li>
+  </ul>
+</div>
+
+<!-- Novel card with purchase CTA -->
+<div style="flex: 1; min-width: 300px; background: linear-gradient(135deg, #1e3c72, #2a5298); padding: 25px; border-radius: 15px; border-left: 5px solid #36A9AE; position: relative; overflow: hidden; animation: slideInRight 1s ease;">
+  <div style="position: absolute; top: -50px; right: -50px; width: 150px; height: 150px; background: rgba(255, 255, 255, 0.1); border-radius: 50%;"></div>
+  <h3 style="color: white; margin-top: 0;">
+    <span style="font-size: 1.3em;">📚</span> Self-Published Novel
+  </h3>
+  <p style="color: rgba(255, 255, 255, 0.9);"><strong>Gumroad • Published: December 2025</strong></p>
+  <p style="color: white; font-size: 1.1em;">Dystopian Action-Adventure</p>
+  <p style="color: rgba(255, 255, 255, 0.8);">24,000+ words • 14 Chapters • Multiple Endings</p>
+  
+  <div style="margin-top: 25px;">
+    <a href="https://nafeel892k.gumroad.com" style="text-decoration: none; display: inline-block;">
+      <button style="background: linear-gradient(45deg, #00FF00, #36A9AE); color: black; border: none; padding: 12px 24px; border-radius: 25px; font-weight: bold; cursor: pointer; transition: all 0.3s ease; box-shadow: 0 4px 15px rgba(54, 169, 174, 0.4); display: flex; align-items: center; gap: 10px;"
+              onmouseover="this.style.transform='translateY(-3px)'; this.style.boxShadow='0 6px 20px rgba(54, 169, 174, 0.6)'"
+              onmouseout="this.style.transform='translateY(0)'; this.style.boxShadow='0 4px 15px rgba(54, 169, 174, 0.4)'">
+        <span>📖 Read/Buy Now</span>
+        <span style="font-size: 0.9em;">→</span>
+      </button>
+    </a>
+  </div>
+</div>
+
+</div>
+</div>
+
+<!-- Animated divider -->
+<div align="center">
+  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" alt="wave" width="100%" height="50px">
+</div>
+
+## 🚀 Featured Projects
+
+<!-- Interactive project grid with 3D effects -->
+<div class="projects-grid" style="display: grid; grid-template-columns: repeat(auto-fit, minmax(320px, 1fr)); gap: 25px; margin: 40px 0;">
+
+<!-- Project 1 -->
+<div style="background: linear-gradient(145deg, #1a1a1a, #2a2a2a); padding: 25px; border-radius: 15px; border-top: 4px solid #00FF00; transition: all 0.4s cubic-bezier(0.175, 0.885, 0.32, 1.275); position: relative; overflow: hidden;"
+     onmouseover="this.style.transform='translateY(-10px) rotateX(5deg)';"
+     onmouseout="this.style.transform='translateY(0) rotateX(0)';">
+  <div style="position: absolute; top: 0; left: 0; right: 0; height: 4px; background: linear-gradient(90deg, #00FF00, transparent);"></div>
+  <h3 style="color: #00FF00; margin-top: 0; display: flex; align-items: center; gap: 10px;">
+    <span style="font-size: 1.5em;">🔍</span> Malakai-OSINT
+  </h3>
+  <p style="opacity: 0.9;">Advanced automated reconnaissance toolkit with OSINT capabilities, subdomain enumeration, Nmap integration, and vulnerability heuristics.</p>
+  <div style="display: flex; flex-wrap: wrap; gap: 8px; margin: 15px 0;">
+    <span style="background: rgba(0, 255, 0, 0.1); color: #00FF00; padding: 4px 10px; border-radius: 15px; font-size: 0.85em;">Python</span>
+    <span style="background: rgba(0, 255, 0, 0.1); color: #00FF00; padding: 4px 10px; border-radius: 15px; font-size: 0.85em;">PyQt5</span>
+    <span style="background: rgba(0, 255, 0, 0.1); color: #00FF00; padding: 4px 10px; border-radius: 15px; font-size: 0.85em;">DNSPython</span>
+    <span style="background: rgba(0, 255, 0, 0.1); color: #00FF00; padding: 4px 10px; border-radius: 15px; font-size: 0.85em;">Nmap</span>
+    <span style="background: rgba(0, 255, 0, 0.1); color: #00FF00; padding: 4px 10px; border-radius: 15px; font-size: 0.85em;">Multi-threading</span>
+  </div>
+  <a href="https://github.com/GTR-Nafeel/Malakai-Osint" style="text-decoration: none;">
+    <button style="background: transparent; color: #00FF00; border: 2px solid #00FF00; padding: 8px 20px; border-radius: 20px; cursor: pointer; transition: all 0.3s ease; display: flex; align-items: center; gap: 8px; margin-top: 10px;"
+            onmouseover="this.style.background='rgba(0, 255, 0, 0.1)';"
+            onmouseout="this.style.background='transparent';">
+      <span>View Repository</span>
+      <span>↗</span>
+    </button>
+  </a>
+</div>
+
+<!-- Project 2 -->
+<div style="background: linear-gradient(145deg, #1a1a1a, #2a2a2a); padding: 25px; border-radius: 15px; border-top: 4px solid #0077B5; transition: all 0.4s cubic-bezier(0.175, 0.885, 0.32, 1.275); position: relative; overflow: hidden;"
+     onmouseover="this.style.transform='translateY(-10px) rotateX(5deg)';"
+     onmouseout="this.style.transform='translateY(0) rotateX(0)';">
+  <div style="position: absolute; top: 0; left: 0; right: 0; height: 4px; background: linear-gradient(90deg, #0077B5, transparent);"></div>
+  <h3 style="color: #0077B5; margin-top: 0; display: flex; align-items: center; gap: 10px;">
+    <span style="font-size: 1.5em;">💼</span> Sundar Job Portal
+  </h3>
+  <p style="opacity: 0.9;">Full-stack job platform with user authentication, job listings, application tracking, and employer dashboard. Developed during internship.</p>
+  <div style="display: flex; flex-wrap: wrap; gap: 8px; margin: 15px 0;">
+    <span style="background: rgba(0, 119, 181, 0.1); color: #0077B5; padding: 4px 10px; border-radius: 15px; font-size: 0.85em;">React</span>
+    <span style="background: rgba(0, 119, 181, 0.1); color: #0077B5; padding: 4px 10px; border-radius: 15px; font-size: 0.85em;">Django</span>
+    <span style="background: rgba(0, 119, 181, 0.1); color: #0077B5; padding: 4px 10px; border-radius: 15px; font-size: 0.85em;">Python</span>
+    <span style="background: rgba(0, 119, 181, 0.1); color: #0077B5; padding: 4px 10px; border-radius: 15px; font-size: 0.85em;">REST API</span>
+    <span style="background: rgba(0, 119, 181, 0.1); color: #0077B5; padding: 4px 10px; border-radius: 15px; font-size: 0.85em;">SQLite</span>
+  </div>
+  <a href="https://github.com/GTR-Nafeel/Sundar-Job-Portal" style="text-decoration: none;">
+    <button style="background: transparent; color: #0077B5; border: 2px solid #0077B5; padding: 8px 20px; border-radius: 20px; cursor: pointer; transition: all 0.3s ease; display: flex; align-items: center; gap: 8px; margin-top: 10px;"
+            onmouseover="this.style.background='rgba(0, 119, 181, 0.1)';"
+            onmouseout="this.style.background='transparent';">
+      <span>View Repository</span>
+      <span>↗</span>
+    </button>
+  </a>
+</div>
+
+<!-- Project 3 -->
+<div style="background: linear-gradient(145deg, #1a1a1a, #2a2a2a); padding: 25px; border-radius: 15px; border-top: 4px solid #E4405F; transition: all 0.4s cubic-bezier(0.175, 0.885, 0.32, 1.275); position: relative; overflow: hidden;"
+     onmouseover="this.style.transform='translateY(-10px) rotateX(5deg)';"
+     onmouseout="this.style.transform='translateY(0) rotateX(0)';">
+  <div style="position: absolute; top: 0; left: 0; right: 0; height: 4px; background: linear-gradient(90deg, #E4405F, transparent);"></div>
+  <h3 style="color: #E4405F; margin-top: 0; display: flex; align-items: center; gap: 10px;">
+    <span style="font-size: 1.5em;">👥</span> HR Management System
+  </h3>
+  <p style="opacity: 0.9;">Comprehensive employee management web application with attendance tracking, payroll, leave management, and performance evaluation features.</p>
+  <div style="display: flex; flex-wrap: wrap; gap: 8px; margin: 15px 0;">
+    <span style="background: rgba(228, 64, 95, 0.1); color: #E4405F; padding: 4px 10px; border-radius: 15px; font-size: 0.85em;">HTML/CSS</span>
+    <span style="background: rgba(228, 64, 95, 0.1); color: #E4405F; padding: 4px 10px; border-radius: 15px; font-size: 0.85em;">Bootstrap</span>
+    <span style="background: rgba(228, 64, 95, 0.1); color: #E4405F; padding: 4px 10px; border-radius: 15px; font-size: 0.85em;">Django</span>
+    <span style="background: rgba(228, 64, 95, 0.1); color: #E4405F; padding: 4px 10px; border-radius: 15px; font-size: 0.85em;">Python</span>
+    <span style="background: rgba(228, 64, 95, 0.1); color: #E4405F; padding: 4px 10px; border-radius: 15px; font-size: 0.85em;">SQLite</span>
+  </div>
+  <a href="https://github.com/GTR-Nafeel" style="text-decoration: none;">
+    <button style="background: transparent; color: #E4405F; border: 2px solid #E4405F; padding: 8px 20px; border-radius: 20px; cursor: pointer; transition: all 0.3s ease; display: flex; align-items: center; gap: 8px; margin-top: 10px;"
+            onmouseover="this.style.background='rgba(228, 64, 95, 0.1)';"
+            onmouseout="this.style.background='transparent';">
+      <span>Explore More Projects</span>
+      <span>↗</span>
     </button>
   </a>
 </div>
 
 </div>
 
----
-
-## 🚀 Featured Projects
-
-<div class="projects-container" style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: center;">
-
-<div style="flex: 1; min-width: 300px; background: #1a1a1a; padding: 20px; border-radius: 10px; border-left: 5px solid #00FF00; transition: transform 0.3s;" onmouseover="this.style.transform='translateY(-5px)'" onmouseout="this.style.transform='translateY(0)'">
-  <h3>🔍 Malakai-OSINT</h3>
-  <p>Advanced automated reconnaissance toolkit (OSINT, subdomain enum, Nmap, vulnerability heuristics).</p>
-  <p><strong>Tech:</strong> Python, PyQt5, DNSPython, Nmap, Multi-threading</p>
-  <a href="https://github.com/GTR-Nafeel/Malakai-Osint" style="text-decoration: none;">
-    <img src="https://img.shields.io/badge/🔗-View_Repo-black?style=for-the-badge&logo=github" alt="View Repo">
-  </a>
+<!-- Call to action for projects -->
+<div align="center" style="margin: 30px 0; padding: 20px; background: linear-gradient(90deg, rgba(0, 255, 0, 0.1), rgba(0, 119, 181, 0.1)); border-radius: 15px; border: 1px dashed #00FF00;">
+  <p style="margin: 0; font-size: 1.1em; color: #00FF00;">
+    <span style="font-size: 1.3em;">🚀</span> More projects: Weather apps, todo lists, music players, resort booking systems — 
+    <a href="https://github.com/GTR-Nafeel?tab=repositories" style="color: #00FF00; text-decoration: underline;">Explore all repositories</a>
+  </p>
 </div>
 
-<div style="flex: 1; min-width: 300px; background: #1a1a1a; padding: 20px; border-radius: 10px; border-left: 5px solid #0077B5; transition: transform 0.3s;" onmouseover="this.style.transform='translateY(-5px)'" onmouseout="this.style.transform='translateY(0)'">
-  <h3>💼 Sundar Job Portal (Internship)</h3>
-  <p>Full-stack job platform with auth, listings & application tracking.</p>
-  <p><strong>Tech:</strong> React, Django, Python</p>
-  <a href="https://github.com/GTR-Nafeel/Sundar-Job-Portal" style="text-decoration: none;">
-    <img src="https://img.shields.io/badge/🔗-View_Repo-black?style=for-the-badge&logo=github" alt="View Repo">
-  </a>
-</div>
-
-<div style="flex: 1; min-width: 300px; background: #1a1a1a; padding: 20px; border-radius: 10px; border-left: 5px solid #E4405F; transition: transform 0.3s;" onmouseover="this.style.transform='translateY(-5px)'" onmouseout="this.style.transform='translateY(0)'">
-  <h3>👥 HR Management System (Final Year Project)</h3>
-  <p>Employee management web app with comprehensive features.</p>
-  <p><strong>Tech:</strong> HTML/CSS/Bootstrap, Django/Python, SQLite</p>
-</div>
-
-</div>
-
-<p align="center" style="margin-top: 20px;">
-  <em>More projects: Weather apps, todo lists, music players, resort booking — explore below!</em>
-</p>
-
----
-
-## 📊 GitHub Stats
-
-<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px;">
-
-<img src="https://github-readme-stats.vercel.app/api?username=GTR-Nafeel&show_icons=true&theme=dark&hide_border=true&count_private=true&include_all_commits=true&custom_title=My%20GitHub%20Stats&animate=true" alt="Stats" style="animation: float 3s ease-in-out infinite;" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GTR-Nafeel&layout=compact&theme=dark&hide_border=true&langs_count=8&animate=true" alt="Languages" style="animation: float 3s ease-in-out infinite 0.5s;" />
-
-</div>
-
+<!-- Animated divider -->
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=GTR-Nafeel&theme=dark&hide_border=true&background=0D1117&stroke=00FF00&ring=00FF00&fire=00FF00&currStreakLabel=00FF00" alt="GitHub Streak" />
+  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" alt="wave" width="100%" height="50px">
 </div>
 
----
+## 📊 GitHub Analytics
 
-## 🛠️ Tech Stack
+<!-- Animated stats with progress bars -->
+<div align="center" style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 25px; margin: 40px 0;">
 
-```yaml
-Cybersecurity:
-  🔐 OSINT • Penetration Testing • Malware Analysis
-  ⚔️ Nmap • MSFVenom • Hashcat • Hydra • John the Ripper
+<!-- Stats card -->
+<div style="background: linear-gradient(145deg, #0d1117, #161b22); padding: 25px; border-radius: 15px; border: 1px solid #30363d; position: relative;">
+  <h3 style="color: #00FF00; margin-top: 0; display: flex; align-items: center; gap: 10px;">
+    <span style="font-size: 1.5em;">📈</span> GitHub Stats
+  </h3>
+  <img src="https://github-readme-stats.vercel.app/api?username=GTR-Nafeel&show_icons=true&theme=dark&hide_border=true&count_private=true&include_all_commits=true&custom_title=My%20GitHub%20Stats&animate=true&bg_color=0d1117&title_color=00FF00&icon_color=00FF00&text_color=ffffff&border_radius=15" 
+       alt="Stats" 
+       style="width: 100%; border-radius: 10px;" />
+</div>
 
-Web Development:
-  🌐 React • Tailwind CSS • HTML/CSS • Bootstrap
-  🐍 Python • Django • SQLite • REST APIs
+<!-- Languages card -->
+<div style="background: linear-gradient(145deg, #0d1117, #161b22); padding: 25px; border-radius: 15px; border: 1px solid #30363d; position: relative;">
+  <h3 style="color: #00FF00; margin-top: 0; display: flex; align-items: center; gap: 10px;">
+    <span style="font-size: 1.5em;">💻</span> Top Languages
+  </h3>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GTR-Nafeel&layout=compact&theme=dark&hide_border=true&langs_count=8&animate=true&bg_color=0d1117&title_color=00FF00&text_color=ffffff&border_radius=15" 
+       alt="Languages" 
+       style="width: 100%; border-radius: 10px;" />
+</div>
 
-Networking:
-  🌐 DHCP • NAT • ACLs • RIP • OSPF • TCP/IP
+<!-- Streak card -->
+<div style="background: linear-gradient(145deg, #0d1117, #161b22); padding: 25px; border-radius: 15px; border: 1px solid #30363d; grid-column: span 2;">
+  <h3 style="color: #00FF00; margin-top: 0; display: flex; align-items: center; gap: 10px;">
+    <span style="font-size: 1.5em;">🔥</span> Contribution Streak
+  </h3>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=GTR-Nafeel&theme=dark&hide_border=true&background=0D1117&stroke=00FF00&ring=00FF00&fire=00FF00&currStreakLabel=00FF00&sideLabels=00FF00&dates=ffffff" 
+       alt="GitHub Streak" 
+       style="width: 100%; border-radius: 10px;" />
+</div>
 
-Other Skills:
-  ✍️ Technical Writing • Canva • MS Office
-  🗣️ Languages: English (C1) • Urdu (C2)
+</div>
 
-Tools & Platforms:
-  🛡️ Metasploit • Wireshark • Burp Suite • Kali Linux
-  ☁️ Git • GitHub • Docker • VS Code
-```
-
----
-
+<!-- Trophy showcase -->
 <div align="center" style="margin: 40px 0;">
+  <h2 style="color: #00FF00; display: flex; align-items: center; justify-content: center; gap: 10px;">
+    <span style="font-size: 1.5em;">🏆</span> GitHub Trophies
+  </h2>
+  <img src="https://github-profile-trophy.vercel.app/?username=GTR-Nafeel&theme=darkhub&no-frame=true&row=2&column=4&margin-w=15&margin-h=15" 
+       alt="Trophies" 
+       style="width: 100%; max-width: 900px; border-radius: 15px;" />
+</div>
+
+<!-- Animated divider -->
+<div align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" alt="separator" width="100%" height="30px">
+</div>
+
+## 🛠️ Tech Stack & Skills
+
+<!-- Interactive tech stack with animated icons -->
+<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 25px; margin: 40px 0;">
+
+<!-- Cybersecurity -->
+<div style="background: linear-gradient(145deg, #0f2027, #203a43); padding: 25px; border-radius: 15px; position: relative; overflow: hidden;">
+  <div style="position: absolute; top: 0; right: 0; width: 100px; height: 100px; background: radial-gradient(circle, rgba(0, 255, 0, 0.1) 0%, transparent 70%);"></div>
+  <h3 style="color: #00FF00; margin-top: 0; display: flex; align-items: center; gap: 10px;">
+    <span style="font-size: 1.5em;">🔐</span> Cybersecurity
+  </h3>
+  <div style="display: flex; flex-wrap: wrap; gap: 10px; margin-top: 15px;">
+    <span style="background: rgba(0, 255, 0, 0.15); color: #00FF00; padding: 8px 15px; border-radius: 20px; display: inline-flex; align-items: center; gap: 8px;">
+      <span>🔍</span> OSINT
+    </span>
+    <span style="background: rgba(0, 255, 0, 0.15); color: #00FF00; padding: 8px 15px; border-radius: 20px; display: inline-flex; align-items: center; gap: 8px;">
+      <span>⚔️</span> Penetration Testing
+    </span>
+    <span style="background: rgba(0, 255, 0, 0.15); color: #00FF00; padding: 8px 15px; border-radius: 20px; display: inline-flex; align-items: center; gap: 8px;">
+      <span>🦠</span> Malware Analysis
+    </span>
+    <span style="background: rgba(0, 255, 0, 0.15); color: #00FF00; padding: 8px 15px; border-radius: 20px; display: inline-flex; align-items: center; gap: 8px;">
+      <span>📡</span> Network Security
+    </span>
+    <span style="background: rgba(0, 255, 0, 0.15); color: #00FF00; padding: 8px 15px; border-radius: 20px; display: inline-flex; align-items: center; gap: 8px;">
+      <span>🔓</span> Vulnerability Assessment
+    </span>
+  </div>
+  <p style="margin-top: 20px; opacity: 0.9;"><strong>Tools:</strong> Nmap, Metasploit, Wireshark, Burp Suite, Hashcat, Hydra, John the Ripper, Kali Linux</p>
+</div>
+
+<!-- Web Development -->
+<div style="background: linear-gradient(145deg, #1e3c72, #2a5298); padding: 25px; border-radius: 15px; position: relative; overflow: hidden;">
+  <div style="position: absolute; top: 0; right: 0; width: 100px; height: 100px; background: radial-gradient(circle, rgba(0, 119, 181, 0.1) 0%, transparent 70%);"></div>
+  <h3 style="color: #ffffff; margin-top: 0; display: flex; align-items: center; gap: 10px;">
+    <span style="font-size: 1.5em;">🌐</span> Web Development
+  </h3>
+  <div style="display: flex; flex-wrap: wrap; gap: 10px; margin-top: 15px;">
+    <span style="background: rgba(255, 255, 255, 0.15); color: white; padding: 8px 15px; border-radius: 20px; display: inline-flex; align-items: center; gap: 8px;">
+      <span>⚛️</span> React
+    </span>
+    <span style="background: rgba(255, 255, 255, 0.15); color: white; padding: 8px 15px; border-radius: 20px; display: inline-flex; align-items: center; gap: 8px;">
+      <span>🐍</span> Django
+    </span>
+    <span style="background: rgba(255, 255, 255, 0.15); color: white; padding: 8px 15px; border-radius: 20px; display: inline-flex; align-items: center; gap: 8px;">
+      <span>🎨</span> Tailwind CSS
+    </span>
+    <span style="background: rgba(255, 255, 255, 0.15); color: white; padding: 8px 15px; border-radius: 20px; display: inline-flex; align-items: center; gap: 8px;">
+      <span>📊</span> REST APIs
+    </span>
+    <span style="background: rgba(255, 255, 255, 0.15); color: white; padding: 8px 15px; border-radius: 20px; display: inline-flex; align-items: center; gap: 8px;">
+      <span>🗄️</span> SQLite/PostgreSQL
+    </span>
+  </div>
+  <p style="margin-top: 20px; opacity: 0.9; color: white;"><strong>Technologies:</strong> HTML5, CSS3, JavaScript, Python, Bootstrap, Git, Docker</p>
+</div>
+
+<!-- Other Skills -->
+<div style="background: linear-gradient(145deg, #2c003e, #4a0072); padding: 25px; border-radius: 15px; position: relative; overflow: hidden;">
+  <div style="position: absolute; top: 0; right: 0; width: 100px; height: 100px; background: radial-gradient(circle, rgba(228, 64, 95, 0.1) 0%, transparent 70%);"></div>
+  <h3 style="color: #ffffff; margin-top: 0; display: flex; align-items: center; gap: 10px;">
+    <span style="font-size: 1.5em;">🌟</span> Additional Skills
+  </h3>
+  <div style="display: grid; grid-template-columns: 1fr 1fr; gap: 15px; margin-top: 15px;">
+    <div>
+      <h4 style="color: #E4405F; margin: 0 0 10px 0;">Networking</h4>
+      <ul style="list-style-type: none; padding: 0; margin: 0; color: rgba(255, 255, 255, 0.9);">
+        <li>• DHCP & NAT</li>
+        <li>• ACLs & Firewalls</li>
+        <li>• RIP & OSPF</li>
+        <li>• TCP/IP Stack</li>
+      </ul>
+    </div>
+    <div>
+      <h4 style="color: #E4405F; margin: 0 0 10px 0;">Soft Skills</h4>
+      <ul style="list-style-type: none; padding: 0; margin: 0; color: rgba(255, 255, 255, 0.9);">
+        <li>• Technical Writing</li>
+        <li>• Creative Writing</li>
+        <li>• Problem Solving</li>
+        <li>• Team Collaboration</li>
+      </ul>
+    </div>
+  </div>
+  <p style="margin-top: 20px; opacity: 0.9; color: white;"><strong>Languages:</strong> English (C1 Proficient), Urdu (C2 Native)</p>
+</div>
+
+</div>
+
+<!-- Animated divider -->
+<div align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" alt="separator" width="100%" height="30px">
+</div>
 
 ## 🤝 Let's Connect!
 
-<p style="font-size: 1.2rem;">Open to collaborations in cybersecurity, web dev, or writing!</p>
-
-<div style="display: flex; justify-content: center; gap: 20px; margin-top: 20px;">
-
-<a href="https://www.linkedin.com/in/nafeel-masood" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-</a>
-
-<a href="https://www.instagram.com/nafeel.ig" target="_blank">
-  <img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
-</a>
-
-<a href="https://github.com/GTR-Nafeel" target="_blank">
-  <img src="https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
-</a>
-
-<a href="mailto:nafeelmasood@gmail.com">
-  <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
-</a>
+<!-- Interactive connection section -->
+<div align="center" style="margin: 50px 0;">
+  
+<div style="max-width: 800px; margin: 0 auto; padding: 40px; background: linear-gradient(135deg, rgba(0, 255, 0, 0.05), rgba(0, 119, 181, 0.05)); border-radius: 20px; border: 2px dashed #00FF00; position: relative;">
+  
+  <div style="position: absolute; top: -25px; left: 50%; transform: translateX(-50%); background: #0d1117; padding: 0 20px;">
+    <h2 style="color: #00FF00; margin: 0; display: flex; align-items: center; gap: 10px; white-space: nowrap;">
+      <span style="font-size: 1.5em;">💬</span> Open to Collaborations & Opportunities
+    </h2>
+  </div>
+  
+  <p style="font-size: 1.2em; margin: 20px 0 30px 0; color: #ffffff;">
+    Interested in cybersecurity, web development, or creative writing?<br>
+    Let's build something amazing together!
+  </p>
+  
+  <!-- Animated social buttons -->
+  <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px; margin: 30px 0;">
+    
+    <a href="https://www.linkedin.com/in/muhammad-nafeel-314670251/" target="_blank" style="text-decoration: none;">
+      <button style="background: linear-gradient(45deg, #0077B5, #00A0DC); color: white; border: none; padding: 15px 30px; border-radius: 25px; font-weight: bold; cursor: pointer; transition: all 0.3s ease; display: flex; align-items: center; gap: 10px; box-shadow: 0 5px 15px rgba(0, 119, 181, 0.4);"
+              onmouseover="this.style.transform='translateY(-5px) scale(1.05)'; this.style.boxShadow='0 8px 25px rgba(0, 119, 181, 0.6)';"
+              onmouseout="this.style.transform='translateY(0) scale(1)'; this.style.boxShadow='0 5px 15px rgba(0, 119, 181, 0.4)';">
+        <span style="font-size: 1.2em;">💼</span>
+        <span>Connect on LinkedIn</span>
+      </button>
+    </a>
+    
+    <a href="https://www.instagram.com/heartripper_senpai.2k/" target="_blank" style="text-decoration: none;">
+      <button style="background: linear-gradient(45deg, #E4405F, #FD1D1D); color: white; border: none; padding: 15px 30px; border-radius: 25px; font-weight: bold; cursor: pointer; transition: all 0.3s ease; display: flex; align-items: center; gap: 10px; box-shadow: 0 5px 15px rgba(228, 64, 95, 0.4);"
+              onmouseover="this.style.transform='translateY(-5px) scale(1.05)'; this.style.boxShadow='0 8px 25px rgba(228, 64, 95, 0.6)';"
+              onmouseout="this.style.transform='translateY(0) scale(1)'; this.style.boxShadow='0 5px 15px rgba(228, 64, 95, 0.4)';">
+        <span style="font-size: 1.2em;">📸</span>
+        <span>Follow on Instagram</span>
+      </button>
+    </a>
+    
+    <a href="https://github.com/GTR-Nafeel" target="_blank" style="text-decoration: none;">
+      <button style="background: linear-gradient(45deg, #181717, #333333); color: white; border: none; padding: 15px 30px; border-radius: 25px; font-weight: bold; cursor: pointer; transition: all 0.3s ease; display: flex; align-items: center; gap: 10px; box-shadow: 0 5px 15px rgba(24, 23, 23, 0.4);"
+              onmouseover="this.style.transform='translateY(-5px) scale(1.05)'; this.style.boxShadow='0 8px 25px rgba(24, 23, 23, 0.6)';"
+              onmouseout="this.style.transform='translateY(0) scale(1)'; this.style.boxShadow='0 5px 15px rgba(24, 23, 23, 0.4)';">
+        <span style="font-size: 1.2em;">💻</span>
+        <span>Explore GitHub</span>
+      </button>
+    </a>
+    
+  </div>
+  
+  <!-- Quick contact form -->
+  <div style="margin-top: 40px; padding: 25px; background: rgba(0, 0, 0, 0.3); border-radius: 15px;">
+    <h3 style="color: #00FF00; margin-top: 0;">📫 Quick Contact</h3>
+    <p style="margin-bottom: 20px; opacity: 0.9;">Prefer email? Feel free to reach out!</p>
+    <a href="mailto:nafeelmasood@gmail.com" style="text-decoration: none;">
+      <button style="background: transparent; color: #00FF00; border: 2px solid #00FF00; padding: 12px 25px; border-radius: 20px; cursor: pointer; transition: all 0.3s ease; display: inline-flex; align-items: center; gap: 10px;"
+              onmouseover="this.style.background='rgba(0, 255, 0, 0.1)';"
+              onmouseout="this.style.background='transparent';">
+        <span style="font-size: 1.2em;">✉️</span>
+        <span>nafeelmasood@gmail.com</span>
+      </button>
+    </a>
+  </div>
+  
+  <p style="margin-top: 30px; font-size: 1.1rem; color: #00FF00; font-style: italic;">
+    💬 Always open to discussing cybersecurity research, web development projects, or creative writing collaborations!
+  </p>
+  
+</div>
 
 </div>
 
-<p style="margin-top: 30px; font-size: 1.1rem; color: #00FF00;">
-  💬 Always open to discussing cybersecurity, web development, or creative writing!
-</p>
-
+<!-- Animated footer -->
+<div align="center" style="margin-top: 50px;">
+  <div style="display: inline-block; animation: bounce 2s infinite;">
+    <img src="https://raw.githubusercontent.com/GTR-Nafeel/GTR-Nafeel/output/github-contribution-grid-snake-dark.svg" 
+         alt="Snake animation" 
+         style="width: 100%; max-width: 800px;" />
+  </div>
+  
+  <div style="margin-top: 30px; padding: 20px; border-top: 2px solid #30363d;">
+    <p style="color: #8b949e; font-size: 0.9em;">
+      © 2025 Muhammad Nafeel Qazi (Nafeel Masood) • 
+      <span style="color: #00FF00;">CEH-Certified Cybersecurity Analyst</span> • 
+      <span style="color: #0077B5;">Full-Stack Developer</span> • 
+      <span style="color: #E4405F;">Published Author</span>
+    </p>
+    <p style="color: #8b949e; font-size: 0.8em; margin-top: 10px;">
+      "Securing digital spaces, building innovative solutions, and crafting compelling stories."
+    </p>
+  </div>
 </div>
 
----
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=00FF00&height=100&section=footer&animation=fadeIn" alt="Footer" />
-</p>
-
+<!-- CSS Animations -->
 <style>
 @keyframes float {
   0%, 100% { transform: translateY(0); }
@@ -174,21 +455,49 @@ Tools & Platforms:
 }
 
 @keyframes fadeIn {
-  from { opacity: 0; }
-  to { opacity: 1; }
+  from { opacity: 0; transform: translateY(20px); }
+  to { opacity: 1; transform: translateY(0); }
 }
 
-button:hover {
-  transform: scale(1.05);
+@keyframes slideInLeft {
+  from { opacity: 0; transform: translateX(-50px); }
+  to { opacity: 1; transform: translateX(0); }
+}
+
+@keyframes slideInRight {
+  from { opacity: 0; transform: translateX(50px); }
+  to { opacity: 1; transform: translateX(0); }
+}
+
+@keyframes glow {
+  0% { box-shadow: 0 0 30px rgba(0, 255, 0, 0.5); }
+  100% { box-shadow: 0 0 50px rgba(0, 255, 0, 0.8); }
+}
+
+@keyframes bounce {
+  0%, 100% { transform: translateY(0); }
+  50% { transform: translateY(-10px); }
+}
+
+/* Hover effects */
+button, .project-card, .cert-card {
+  transition: all 0.3s ease !important;
+}
+
+/* Scroll animations */
+@media (prefers-reduced-motion: no-preference) {
+  .fade-in {
+    animation: fadeIn 1s ease;
+  }
 }
 </style>
 
-<script>
-// Simple animation for badges
-document.addEventListener('DOMContentLoaded', function() {
-  const badges = document.querySelectorAll('.badge');
-  badges.forEach((badge, index) => {
-    badge.style.animationDelay = `${index * 0.1}s`;
-  });
-});
-</script>
+<!-- Visitor counter script -->
+<script type="text/javascript" src="https://cdnjs.buymeacoffee.com/1.0.0/button.prod.min.js" data-name="bmc-button" data-slug="GTRNafeel" data-color="#00FF00" data-emoji="" data-font="Cookie" data-text="Support my work" data-outline-color="#000000" data-font-color="#ffffff" data-coffee-color="#FFDD00" ></script>
+
+<!-- Star animation -->
+<div align="center" style="margin: 20px 0;">
+  <p style="color: #8b949e; font-size: 0.9em;">
+    ⭐ If you like my projects, consider giving them a star on GitHub!
+  </p>
+</div>
