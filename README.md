@@ -1,6 +1,3 @@
-<div align="center">
-  <img src="https://i.pinimg.com/originals/55/e4/57/55e457846f295a4a9acb25253e197e6e.gif" alt="Cyberpunk Hacker Banner" width="100%"/>
-</div>
 
 <table>
   <tr>
