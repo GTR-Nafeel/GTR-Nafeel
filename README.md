@@ -57,7 +57,7 @@
     <span style="font-size: 1.3em;">✨</span> Certified Ethical Hacker (CEHv12)
   </h3>
   <p style="opacity: 0.9;"><strong>EC-Council • Issued: 12 December 2025</strong></p>
-  <ul style="list-style-type: none; padding-left: 0;">
+  <ol style="list-style-type: none; padding-left: 0;">
     <li style="margin: 8px 0; padding-left: 25px; position: relative;">
       <span style="position: absolute; left: 0; color: #00FF00;">🔍</span> Advanced OSINT Techniques
     </li>
@@ -73,7 +73,7 @@
     <li style="margin: 8px 0; padding-left: 25px; position: relative;">
       <span style="position: absolute; left: 0; color: #00FF00;">🔨</span> Hashcat & Hydra Mastery
     </li>
-  </ul>
+  </ol>
 </div>
 
 <!-- Novel card with purchase CTA -->
@@ -204,57 +204,6 @@
   <div style="height: 2px; background: linear-gradient(90deg, #E4405F, #0077B5, #00FF00, #0077B5, #E4405F); width: 70%; margin: 40px auto; border-radius: 5px; animation: movingLine 4s linear infinite;"></div>
 </div>
 
-## 📊 GitHub Analytics
-
-<!-- Animated stats with progress bars -->
-<div align="center" style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 25px; margin: 40px 0;">
-
-<!-- Stats card -->
-<div style="background: linear-gradient(145deg, #0d1117, #161b22); padding: 25px; border-radius: 15px; border: 1px solid #30363d; position: relative;">
-  <h3 style="color: #00FF00; margin-top: 0; display: flex; align-items: center; gap: 10px;">
-    <span style="font-size: 1.5em;">📈</span> GitHub Stats
-  </h3>
-  <img src="https://github-readme-stats.vercel.app/api?username=GTR-Nafeel&show_icons=true&theme=dark&hide_border=true&count_private=true&include_all_commits=true&custom_title=My%20GitHub%20Stats&animate=true&bg_color=0d1117&title_color=00FF00&icon_color=00FF00&text_color=ffffff&border_radius=15" 
-       alt="Stats" 
-       style="width: 100%; border-radius: 10px;" />
-</div>
-
-<!-- Languages card -->
-<div style="background: linear-gradient(145deg, #0d1117, #161b22); padding: 25px; border-radius: 15px; border: 1px solid #30363d; position: relative;">
-  <h3 style="color: #00FF00; margin-top: 0; display: flex; align-items: center; gap: 10px;">
-    <span style="font-size: 1.5em;">💻</span> Top Languages
-  </h3>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GTR-Nafeel&layout=compact&theme=dark&hide_border=true&langs_count=8&animate=true&bg_color=0d1117&title_color=00FF00&text_color=ffffff&border_radius=15" 
-       alt="Languages" 
-       style="width: 100%; border-radius: 10px;" />
-</div>
-
-<!-- Streak card -->
-<div style="background: linear-gradient(145deg, #0d1117, #161b22); padding: 25px; border-radius: 15px; border: 1px solid #30363d; grid-column: span 2;">
-  <h3 style="color: #00FF00; margin-top: 0; display: flex; align-items: center; gap: 10px;">
-    <span style="font-size: 1.5em;">🔥</span> Contribution Streak
-  </h3>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=GTR-Nafeel&theme=dark&hide_border=true&background=0D1117&stroke=00FF00&ring=00FF00&fire=00FF00&currStreakLabel=00FF00&sideLabels=00FF00&dates=ffffff" 
-       alt="GitHub Streak" 
-       style="width: 100%; border-radius: 10px;" />
-</div>
-
-</div>
-
-<!-- Trophy showcase -->
-<div align="center" style="margin: 40px 0;">
-  <h2 style="color: #00FF00; display: flex; align-items: center; justify-content: center; gap: 10px;">
-    <span style="font-size: 1.5em;">🏆</span> GitHub Trophies
-  </h2>
-  <img src="https://github-profile-trophy.vercel.app/?username=GTR-Nafeel&theme=darkhub&no-frame=true&row=2&column=4&margin-w=15&margin-h=15" 
-       alt="Trophies" 
-       style="width: 100%; max-width: 900px; border-radius: 15px;" />
-</div>
-
-<!-- Animated separator -->
-<div align="center">
-  <div style="height: 3px; background: linear-gradient(90deg, #00FF00 0%, #0077B5 25%, #E4405F 50%, #0077B5 75%, #00FF00 100%); width: 100%; margin: 40px auto; border-radius: 5px; animation: gradientFlow 3s ease-in-out infinite;"></div>
-</div>
 
 ## 🛠️ Tech Stack & Skills
 
@@ -370,7 +319,7 @@
   <!-- Animated social buttons -->
   <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px; margin: 30px 0;">
     
-    <a href="https://www.linkedin.com/in/muhammad-nafeel-314670251/" target="_blank" style="text-decoration: none;">
+  <a href="https://www.linkedin.com/in/muhammad-nafeel-314670251/" target="_blank" style="text-decoration: none;">
       <button style="background: linear-gradient(45deg, #0077B5, #00A0DC); color: white; border: none; padding: 15px 30px; border-radius: 25px; font-weight: bold; cursor: pointer; transition: all 0.3s ease; display: flex; align-items: center; gap: 10px; box-shadow: 0 5px 15px rgba(0, 119, 181, 0.4);"
               onmouseover="this.style.transform='translateY(-5px) scale(1.05)'; this.style.boxShadow='0 8px 25px rgba(0, 119, 181, 0.6)';"
               onmouseout="this.style.transform='translateY(0) scale(1)'; this.style.boxShadow='0 5px 15px rgba(0, 119, 181, 0.4)';">
@@ -379,7 +328,7 @@
       </button>
     </a>
     
-    <a href="https://www.instagram.com/heartripper_senpai.2k/" target="_blank" style="text-decoration: none;">
+  <a href="https://www.instagram.com/heartripper_senpai.2k/" target="_blank" style="text-decoration: none;">
       <button style="background: linear-gradient(45deg, #E4405F, #FD1D1D); color: white; border: none; padding: 15px 30px; border-radius: 25px; font-weight: bold; cursor: pointer; transition: all 0.3s ease; display: flex; align-items: center; gap: 10px; box-shadow: 0 5px 15px rgba(228, 64, 95, 0.4);"
               onmouseover="this.style.transform='translateY(-5px) scale(1.05)'; this.style.boxShadow='0 8px 25px rgba(228, 64, 95, 0.6)';"
               onmouseout="this.style.transform='translateY(0) scale(1)'; this.style.boxShadow='0 5px 15px rgba(228, 64, 95, 0.4)';">
@@ -388,7 +337,7 @@
       </button>
     </a>
     
-    <a href="https://github.com/GTR-Nafeel" target="_blank" style="text-decoration: none;">
+   <a href="https://github.com/GTR-Nafeel" target="_blank" style="text-decoration: none;">
       <button style="background: linear-gradient(45deg, #181717, #333333); color: white; border: none; padding: 15px 30px; border-radius: 25px; font-weight: bold; cursor: pointer; transition: all 0.3s ease; display: flex; align-items: center; gap: 10px; box-shadow: 0 5px 15px rgba(24, 23, 23, 0.4);"
               onmouseover="this.style.transform='translateY(-5px) scale(1.05)'; this.style.boxShadow='0 8px 25px rgba(24, 23, 23, 0.6)';"
               onmouseout="this.style.transform='translateY(0) scale(1)'; this.style.boxShadow='0 5px 15px rgba(24, 23, 23, 0.4)';">
