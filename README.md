@@ -15,7 +15,7 @@ Fresh CEH graduate (Dec 2025) with hands-on experience in penetration testing, m
 
 ![CEH Certificate](https://raw.githubusercontent.com/GTR-Nafeel/GTR-Nafeel/main/CEH-Certificate.jpg)
 **Certified Ethical Hacker (CEH)**  
-EC-Council • Issued: 12 Dec 2025 • Renewable: 01 Jan 2027  
+EC-Council • Issued: 12 Dec 2025
 Mastered OSINT, vulnerability assessment, MSFVenom payloads, EternalBlue/BlueKeep exploits, and tools like Hashcat & Hydra.
 
 **Self-Published Novel** • Gumroad • Dec 2025  
