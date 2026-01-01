@@ -57,7 +57,7 @@
     <span style="font-size: 1.3em;">✨</span> Certified Ethical Hacker (CEHv12)
   </h3>
   <p style="opacity: 0.9;"><strong>EC-Council • Issued: 12 December 2025</strong></p>
-  <ol style="list-style-type: none; padding-left: 0;">
+ 
     <li style="margin: 8px 0; padding-left: 25px; position: relative;">
       <span style="position: absolute; left: 0; color: #00FF00;">🔍</span> Advanced OSINT Techniques
     </li>
@@ -73,7 +73,6 @@
     <li style="margin: 8px 0; padding-left: 25px; position: relative;">
       <span style="position: absolute; left: 0; color: #00FF00;">🔨</span> Hashcat & Hydra Mastery
     </li>
-  </ol>
 </div>
 
 <!-- Novel card with purchase CTA -->
