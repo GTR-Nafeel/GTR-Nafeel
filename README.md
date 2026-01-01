@@ -37,7 +37,7 @@
 <div align="center" style="position: relative; margin: 30px 0;">
   
 <div style="position: relative; display: inline-block; margin: 20px; animation: glow 2s infinite alternate;">
-  <img src="https://raw.githubusercontent.com/GTR-Nafeel/GTR-Nafeel/main/EC-Council CEH Certificate.png" 
+  <img src="https://raw.githubusercontent.com/GTR-Nafeel/GTR-Nafeel/main/CEH-Certificate.png" 
        alt="CEH Certificate" 
        style="max-width: 600px; width: 100%; border-radius: 15px; border: 3px solid #00FF00; box-shadow: 0 0 30px rgba(0, 255, 0, 0.5); transition: transform 0.5s ease;"
        onmouseover="this.style.transform='scale(1.02)'; this.style.boxShadow='0 0 50px rgba(0, 255, 0, 0.8)'"
