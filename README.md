@@ -26,9 +26,9 @@
   </div>
 </div>
 
-<!-- Glowing separator -->
+<!-- Animated separator -->
 <div align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" alt="separator" width="100%" height="30px">
+  <div style="height: 3px; background: linear-gradient(90deg, transparent, #00FF00, #0077B5, #E4405F, #00FF00, transparent); width: 80%; margin: 30px auto; border-radius: 5px; animation: gradientFlow 3s ease-in-out infinite;"></div>
 </div>
 
 ## 🏆 Certifications & Achievements
@@ -101,9 +101,9 @@
 </div>
 </div>
 
-<!-- Animated divider -->
+<!-- Animated separator -->
 <div align="center">
-  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" alt="wave" width="100%" height="50px">
+  <div style="height: 2px; background: linear-gradient(90deg, #00FF00, #0077B5, #E4405F, #00FF00); width: 60%; margin: 40px auto; border-radius: 5px; animation: pulseLine 2s ease-in-out infinite;"></div>
 </div>
 
 ## 🚀 Featured Projects
@@ -199,9 +199,9 @@
   </p>
 </div>
 
-<!-- Animated divider -->
+<!-- Animated separator -->
 <div align="center">
-  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" alt="wave" width="100%" height="50px">
+  <div style="height: 2px; background: linear-gradient(90deg, #E4405F, #0077B5, #00FF00, #0077B5, #E4405F); width: 70%; margin: 40px auto; border-radius: 5px; animation: movingLine 4s linear infinite;"></div>
 </div>
 
 ## 📊 GitHub Analytics
@@ -251,9 +251,9 @@
        style="width: 100%; max-width: 900px; border-radius: 15px;" />
 </div>
 
-<!-- Animated divider -->
+<!-- Animated separator -->
 <div align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" alt="separator" width="100%" height="30px">
+  <div style="height: 3px; background: linear-gradient(90deg, #00FF00 0%, #0077B5 25%, #E4405F 50%, #0077B5 75%, #00FF00 100%); width: 100%; margin: 40px auto; border-radius: 5px; animation: gradientFlow 3s ease-in-out infinite;"></div>
 </div>
 
 ## 🛠️ Tech Stack & Skills
@@ -344,9 +344,9 @@
 
 </div>
 
-<!-- Animated divider -->
+<!-- Animated separator -->
 <div align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" alt="separator" width="100%" height="30px">
+  <div style="height: 3px; background: linear-gradient(90deg, transparent, #00FF00, #0077B5, #E4405F, #00FF00, transparent); width: 80%; margin: 40px auto; border-radius: 5px; animation: gradientFlow 3s ease-in-out infinite reverse;"></div>
 </div>
 
 ## 🤝 Let's Connect!
@@ -479,6 +479,21 @@
   50% { transform: translateY(-10px); }
 }
 
+@keyframes gradientFlow {
+  0% { background-position: 0% 50%; }
+  100% { background-position: 100% 50%; }
+}
+
+@keyframes pulseLine {
+  0%, 100% { opacity: 1; }
+  50% { opacity: 0.5; }
+}
+
+@keyframes movingLine {
+  0% { background-position: 0% 0%; }
+  100% { background-position: 200% 0%; }
+}
+
 /* Hover effects */
 button, .project-card, .cert-card {
   transition: all 0.3s ease !important;
@@ -490,10 +505,12 @@ button, .project-card, .cert-card {
     animation: fadeIn 1s ease;
   }
 }
-</style>
 
-<!-- Visitor counter script -->
-<script type="text/javascript" src="https://cdnjs.buymeacoffee.com/1.0.0/button.prod.min.js" data-name="bmc-button" data-slug="GTRNafeel" data-color="#00FF00" data-emoji="" data-font="Cookie" data-text="Support my work" data-outline-color="#000000" data-font-color="#ffffff" data-coffee-color="#FFDD00" ></script>
+/* Add background-size for gradient animations */
+div[style*="gradientFlow"], div[style*="movingLine"] {
+  background-size: 200% 100%;
+}
+</style>
 
 <!-- Star animation -->
 <div align="center" style="margin: 20px 0;">
