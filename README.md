@@ -58,21 +58,12 @@
   </h3>
   <p style="opacity: 0.9;"><strong>EC-Council • Issued: 12 December 2025</strong></p>
  
-    <li style="margin: 8px 0; padding-left: 25px; position: relative;">
-      <span style="position: absolute; left: 0; color: #00FF00;">🔍</span> Advanced OSINT Techniques
-    </li>
-    <li style="margin: 8px 0; padding-left: 25px; position: relative;">
-      <span style="position: absolute; left: 0; color: #00FF00;">⚔️</span> Vulnerability Assessment & Penetration Testing
-    </li>
-    <li style="margin: 8px 0; padding-left: 25px; position: relative;">
-      <span style="position: absolute; left: 0; color: #00FF00;">🔐</span> MSFVenom Payload Crafting
-    </li>
-    <li style="margin: 8px 0; padding-left: 25px; position: relative;">
-      <span style="position: absolute; left: 0; color: #00FF00;">💣</span> EternalBlue/BlueKeep Exploitation
-    </li>
-    <li style="margin: 8px 0; padding-left: 25px; position: relative;">
-      <span style="position: absolute; left: 0; color: #00FF00;">🔨</span> Hashcat & Hydra Mastery
-    </li>
+    🔍 Advanced OSINT Techniques
+    ⚔️ Vulnerability Assessment & Penetration Testing
+     🔐 MSFVenom Payload Crafting
+   💣EternalBlue/BlueKeep Exploitation
+    🔨 Hashcat & Hydra Mastery
+    
 </div>
 
 <!-- Novel card with purchase CTA -->
