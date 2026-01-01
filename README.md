@@ -51,17 +51,29 @@
 <div style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: center; margin: 30px 0;">
   
 <div style="flex: 1; min-width: 300px; background: linear-gradient(135deg, #0f2027, #203a43, #2c5364); padding: 25px; border-radius: 15px; border-left: 5px solid #00FF00; animation: slideInLeft 1s ease;">
-  <h3 style="color: #00FF00; margin-top: 0;">
+  <h3 style="color: #00FF00; margin-top: 0; text-align: center;">
     <span style="font-size: 1.3em;">✨</span> Certified Ethical Hacker (CEHv12)
   </h3>
-  <p style="opacity: 0.9;"><strong>EC-Council • Issued: 12 December 2025</strong></p>
-     <center style="justify-content: center;">
-       🔍 Advanced OSINT Techniques
-       ⚔️ Vulnerability Assessment & Penetration Testing
-       🔐 MSFVenom Payload Crafting
-       💣EternalBlue/BlueKeep Exploitation
-       🔨 Hashcat & Hydra Mastery
-     </center>
+  <p style="opacity: 0.9; text-align: center;"><strong>EC-Council • Issued: 12 December 2025</strong></p>
+  
+  <!-- Centered Skills Grid -->
+  <div style="display: grid; grid-template-columns: 1fr; gap: 12px; margin-top: 20px; text-align: center;">
+    <div style="background: rgba(0, 255, 0, 0.1); color: #00FF00; padding: 10px; border-radius: 8px;">
+      🔍 Advanced OSINT Techniques
+    </div>
+    <div style="background: rgba(0, 255, 0, 0.1); color: #00FF00; padding: 10px; border-radius: 8px;">
+      ⚔️ Vulnerability Assessment & Penetration Testing
+    </div>
+    <div style="background: rgba(0, 255, 0, 0.1); color: #00FF00; padding: 10px; border-radius: 8px;">
+      🔐 MSFVenom Payload Crafting
+    </div>
+    <div style="background: rgba(0, 255, 0, 0.1); color: #00FF00; padding: 10px; border-radius: 8px;">
+      💣 EternalBlue/BlueKeep Exploitation
+    </div>
+    <div style="background: rgba(0, 255, 0, 0.1); color: #00FF00; padding: 10px; border-radius: 8px;">
+      🔨 Hashcat & Hydra Mastery
+    </div>
+  </div>
 </div>
 
 <!-- Novel card with purchase CTA -->
