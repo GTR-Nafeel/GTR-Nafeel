@@ -1,3 +1,5 @@
+![Cyberpunk Hacker Banner](https://user-images.githubusercontent.com/74038190/212749695-a6817c5a-a794-462b-afca-1b5ce7dd5e63.gif)
+
 # 👋 Hi, I'm Nafeel Masood (Muhammad Nafeel Qazi)
 
 🔒 **CEH-Certified Junior Cybersecurity Analyst** | 🌐 **Full-Stack Web Developer** | 📖 **Self-Published Author**  
@@ -13,9 +15,12 @@ Fresh CEH graduate (Dec 2025) with hands-on experience in penetration testing, m
 
 ## 🏆 Certifications
 
+![Matrix Code Rain](https://muckypaws.com/wp-content/uploads/2024/06/finalmatrixv2assembler-2.gif)
+
 ![CEH Certificate](https://raw.githubusercontent.com/GTR-Nafeel/GTR-Nafeel/main/CEH-Certificate.jpg)
+
 **Certified Ethical Hacker (CEH)**  
-EC-Council • Issued: 12 Dec 2025
+EC-Council • Issued: 12 Dec 2025  
 Mastered OSINT, vulnerability assessment, MSFVenom payloads, EternalBlue/BlueKeep exploits, and tools like Hashcat & Hydra.
 
 **Self-Published Novel** • Gumroad • Dec 2025  
@@ -25,6 +30,8 @@ Dystopian action-adventure (24,000+ words, 14 chapters)
 ---
 
 ## 🚀 Featured Projects
+
+![Coding Animation](https://user-images.githubusercontent.com/74038190/212749171-b84692a8-2b04-4e3b-93ca-ac14705da224.gif)
 
 - **Malakai-OSINT**  
   Advanced automated reconnaissance toolkit (OSINT, subdomain enum, Nmap, vulnerability heuristics).  
@@ -63,5 +70,6 @@ Web Development:
 Networking: DHCP • NAT • ACLs • RIP • OSPF
 Other: Technical Writing • Canva • MS Office
 Languages: English (C1) • Urdu (C2)
+```
 
 Open to collaborations in cybersecurity, web dev, or writing! Let's connect 😊
