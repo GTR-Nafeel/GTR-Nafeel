@@ -43,9 +43,7 @@
        onmouseover="this.style.transform='scale(1.02)'; this.style.boxShadow='0 0 50px rgba(0, 255, 0, 0.8)'"
        onmouseout="this.style.transform='scale(1)'; this.style.boxShadow='0 0 30px rgba(0, 255, 0, 0.5)'">
   <div style="position: absolute; bottom: 20px; left: 0; right: 0; text-align: center;">
-    <div style="background: rgba(0, 0, 0, 0.8); padding: 10px; border-radius: 10px; display: inline-block;">
-      <span style="color: #00FF00; font-size: 1.1em;">🔍 Hover to zoom | Click for details</span>
-    </div>
+    
   </div>
 </div>
 
@@ -58,11 +56,11 @@
   </h3>
   <p style="opacity: 0.9;"><strong>EC-Council • Issued: 12 December 2025</strong></p>
  
-    🔍 Advanced OSINT Techniques
-    ⚔️ Vulnerability Assessment & Penetration Testing
+     🔍 Advanced OSINT Techniques
+     ⚔️ Vulnerability Assessment & Penetration Testing
      🔐 MSFVenom Payload Crafting
-   💣EternalBlue/BlueKeep Exploitation
-    🔨 Hashcat & Hydra Mastery
+     💣EternalBlue/BlueKeep Exploitation
+     🔨 Hashcat & Hydra Mastery
     
 </div>
 
